@@ -25,5 +25,3 @@
 
 ## Train and Test
     $python TrainHDPT.py
-
-
