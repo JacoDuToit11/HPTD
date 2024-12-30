@@ -1,4 +1,4 @@
-# Source code for paper: Prompt Tuning Discriminative Language Models for Hierarchical Text Classification
+# Source code for paper: [Prompt Tuning Discriminative Language Models for Hierarchical Text Classification](https://doi.org/10.1017/nlp.2024.51)
 
 ## Requirements
     $pip install -r requirements.txt
